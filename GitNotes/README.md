@@ -23,9 +23,9 @@
   
 ### 1. 基本命令
 
-   `**初始化设置**`
+   **初始化设置**
    
-    *配置本机的用户名和Email地址*
+   *配置本机的用户名和Email地址*
 
 ```
 $ git config --global user.name "Your Name"
