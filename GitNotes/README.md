@@ -134,10 +134,10 @@ $ git reflog                           可以查看命令历史，包含提交�
 
 ## 项目开发实战-**app
 
-> 1.  需要安装的软件：msysgit
-> 2.  需要申请的账号：
-> 2.1 公司GitLab账号：向公司GitLab管理人员申请 – ***
-> 2.2 项目GitLab权限：向本项目的创建/管理人员申请 – 比如**app管理者 ***
+> 1. 需要安装的软件：msysgit
+> 2. 需要申请的账号：
+> 3. 公司GitLab账号：向公司GitLab管理人员申请 – ***
+> 4. 项目GitLab权限：向本项目的创建/管理人员申请 – 比如**app管理者 ***
 
 **进入到GitBash命令行操作：在合适的位置点击右键，选择GitBash Here**
 
@@ -211,7 +211,8 @@ $ git commit –m “”     将本地暂存区的代码提交到自己的分支
 $ git checkout dev
 $ git pull origin dev
 (此时，本地仓库的dev分支已经确保是最新的了)
-切换到自己的分支，将dev分支合并到自己的分支上
+
+**切换到自己的分支，将dev分支合并到自己的分支上**
 
 $ git checkout dai
 $ git merge dev        将本地dev分支合并到自己的分支上
@@ -224,7 +225,8 @@ $ git checkout dev
 $ git merge dai
 
 接下来的操作，就是将本地dev分支推到远程仓库的dev分支上了... ...
-推送到远程服务器
+
+**推送到远程服务器**
 
 $ git push origin dev
 ```
