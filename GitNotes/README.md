@@ -16,8 +16,7 @@
 
 > 1. http://www.liaoxuefeng.com/   Git的完整学习教程
 > 2. https://git-for-windows.github.io/   windows上安装msysgit，内部包含模拟环境和Git
-> 3.如果英文不好，可以使用中文版，然后直接使用图形化界面Git Gui，而不使用Git bash
-> `其他学习网址：`
- 
-   https://blog.cnbluebox.com/blog/2014/04/15/gitlabde-shi-yong/
-   http://www.oschina.net/translate/10-tips-git-next-level
+> 3. 如果英文不好，可以使用中文版，然后直接使用图形化界面Git Gui，而不使用Git bash
+> 4. `其他学习网址：`
+  * https://blog.cnbluebox.com/blog/2014/04/15/gitlabde-shi-yong/
+  * http://www.oschina.net/translate/10-tips-git-next-level
