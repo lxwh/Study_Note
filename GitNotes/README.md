@@ -12,7 +12,7 @@
 > * 发布日记，杂文，所见所想
 > * 撰写发布技术文稿（代码支持）
 
-### 学习网站
+## 学习网站
 
 > 1. http://www.liaoxuefeng.com/   Git的完整学习教程
 > 2. https://git-for-windows.github.io/   windows上安装msysgit，内部包含模拟环境和Git
@@ -21,11 +21,11 @@
   * https://blog.cnbluebox.com/blog/2014/04/15/gitlabde-shi-yong/
   * http://www.oschina.net/translate/10-tips-git-next-level
   
-1. 基本命令
+### 1. 基本命令
 
-   `初始化设置`
+   `**初始化设置**`
    
-    配置本机的用户名和Email地址
+    *配置本机的用户名和Email地址*
 
 ```
 $ git config --global user.name "Your Name"
